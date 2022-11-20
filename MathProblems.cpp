@@ -111,6 +111,7 @@ int main ()
   cout << "Statistics:" << endl;
   cout << "Number Theory: " << Number_Theory << endl;
   cout << "Algebra: " << Algebra << endl;
+  cout << "Geometry: " << Geometry << endl;
   cout << "Combinatorics: " << Combinatorics << endl;
 
 void Question::setValues (string q, string a1, string a2, string a3, string a4, string a5, string pt, int ca)
