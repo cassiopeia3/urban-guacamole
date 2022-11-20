@@ -143,7 +143,7 @@ int main()
         {
             if (Problem_Type == "Number Theory") { Number_Theory++; }
             else if (Problem_Type == "Algebra") { Algebra++; }
-            else if (Problem_Type == "Geomemtry") { Geometry++; }
+            else if (Problem_Type == "Geometry") { Geometry++; }
             else { Combinatorics++; }
         }
     }
