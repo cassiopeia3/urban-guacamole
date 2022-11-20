@@ -134,7 +134,7 @@ int main()
         cout << "2. " << Answer_2 << endl;
         cout << "3. " << Answer_3 << endl;
         cout << "4. " << Answer_4 << endl;
-        cout << "5. " << Answer_4 << endl;
+        cout << "5. " << Answer_5 << endl;
         cout << endl;
 
         cout << "What is your answer?" << endl;
